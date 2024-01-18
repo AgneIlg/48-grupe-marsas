@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+main {
+    display: inline-block; 
+    width: 50%;
+    margin-top: 10%; 
+    margin-left: 25%;
+}
+
+div {
+    width: 35%;
+    float: left;
+    margin-top: 50px;
+   
+}
+
+h1 {
+    margin: 0;
+    font-size: 100px;
+    font-family: Tahoma;
+    color: blue;
+}
+
+p {
+    margin: 0;
+    font-size: 30px;
+    font-family: Tahoma;
+    text-transform: uppercase;
+
+}
+a {
+
+}
+img {
+    width: 55%;
+    float: right;
+}
