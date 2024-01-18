@@ -23,6 +23,7 @@ Design: [Ufo](https://cdn.discordapp.com/attachments/850245533838868480/85024647
 -   CSS units: px, %
 -   basic design layout
 -   image with relative paths
+-   **no responsive design**
 
 
 ## 🧰 Getting Started
